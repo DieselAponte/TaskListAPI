@@ -1,0 +1,3 @@
+C:/Users/Diesel/CLionProjects/ListaTareas/cmake-build-debug/CMakeFiles/ListaTareas.dir
+C:/Users/Diesel/CLionProjects/ListaTareas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Diesel/CLionProjects/ListaTareas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
